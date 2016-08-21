@@ -17,6 +17,6 @@ function goldenyouth(name) {
 therichest.prototype = new billionaires();
 goldenyouth.prototype = new therichest();
 
-var new = new goldenyouth("Vlad junior");
-console.log(new.saying);
-console.log(new.source);
+var thefirst = new goldenyouth("Vlad junior");
+console.log(thefirst.saying);
+console.log(thefirst.source);
