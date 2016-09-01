@@ -1,4 +1,21 @@
+header {
+	text-align: right;
+}
+.header {
+	display: inline;
+}
+.menu {
+	display: inline-flex;
+}
+.header-menu {
+display: inline;
+margin-right: 10px;
+}
+.first {
+	margin-right: 5px;
+}
 .icons {
+	text-align: right;
 	display: inline-block;
 	vertical-align: middle;
 	font-size: 30px;
@@ -21,7 +38,7 @@
  
 .main {
 	text-align:-webkit-center;
-	height: 233px;margin-top: 89px;
+	height: 233px;margin-top: 50px;
 }
 
 
